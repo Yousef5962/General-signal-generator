@@ -12,6 +12,7 @@ Users can easily create and customize **DC**, **Ramp**, **Exponential**, and **S
   - **Ramp Signals** (Linear increase or decrease)
   - **Exponential Signals** (Exponential growth or decay)
   - **Sinusoidal Signals** (Sine waves with adjustable frequency and amplitude)
+  - **General Order Poly** (General Order Poly with power and amplitudes and intercept)
 - Customizable parameters for each signal type.
 - Real-time plotting of the generated signal.
 - Easy-to-use graphical interface (no coding required).
@@ -38,6 +39,3 @@ Users can easily create and customize **DC**, **Ramp**, **Exponential**, and **S
 *(Optional: Add screenshots of the GUI interface and example plots here.)*
 
 ---
-
-تحب كمان أجهزلك نسخة ثانية خفيفة لو هتحطه في Repo صغير أو مع تسليم مشروع رسمي؟ ✨  
-أو لو عايز أكتبلك سكريبت جاهز لتحميل الإشارة أو حفظها؟ 🔥
